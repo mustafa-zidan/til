@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_678 TILs and counting..._
+_679 TILs and counting..._
 
 ---
 
@@ -99,6 +99,7 @@ _678 TILs and counting..._
 
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
 - [Check Services Listening on TCP Ports](devops/check-services-listening-on-tcp-ports.md)
+- [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
 - [Determine The IP Address Of A Domain](devops/determine-the-ip-address-of-a-domain.md)
@@ -196,7 +197,7 @@ _678 TILs and counting..._
 - [Show The diffstat Summary Of A Commit](git/show-the-diffstat-summary-of-a-commit.md)
 - [Show The Good And The Bad With Git Bisect](git/show-the-good-and-the-bad-with-git-bisect.md)
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
-- [Staging Changes Within Vim](git/staging-changes-within-vim.md) 
+- [Staging Changes Within Vim](git/staging-changes-within-vim.md)
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
