@@ -9,7 +9,7 @@ and pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_966 TILs and counting..._
+_967 TILs and counting..._
 
 ---
 
@@ -131,7 +131,11 @@ _966 TILs and counting..._
 ### Devops
 
 - [Aliasing An Ansible Host](devops/aliasing-an-ansible-host.md)
+<<<<<<< HEAD
 - [Check Services Listening on TCP Ports](devops/check-services-listening-on-tcp-ports.md)
+=======
+- [Allow Cross-Origin Requests To Include Cookies](devops/allow-cross-origin-requests-to-include-cookies.md)
+>>>>>>> d3eac4b (Add Allow Cross-Origin Requests To Include Cookies as a devops til)
 - [Allow HTTPS Through Your UFW Firewall](devops/allow-https-through-your-ufw-firewall.md)
 - [Check The Status of All Services](devops/check-the-status-of-all-services.md)
 - [Check The Syntax Of nginx Files](devops/check-the-syntax-of-nginx-files.md)
