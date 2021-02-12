@@ -10,7 +10,7 @@ pairing with smart people at Hashrocket.
 
 For a steady stream of TILs, [sign up for my newsletter](https://tinyletter.com/jbranchaud).
 
-_1045 TILs and counting..._
+_1046 TILs and counting..._
 
 ---
 
@@ -282,6 +282,8 @@ _1045 TILs and counting..._
 - [Single Key Presses in Interactive Mode](git/single-key-presses-in-interactive-mode.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md)
 - [Skip A Bad Commit When Bisecting](git/skip-a-bad-commit-when-bisecting.md)
+- [Staging Changes Within Vim](git/staging-changes-within-vim.md)
+- [Skip Pre-Commit Hooks](git/skip-pre-commit-hooks.md)
 - [Staging Changes Within Vim](git/staging-changes-within-vim.md)
 - [Staging Stashes Interactively](git/staging-stashes-interactively.md)
 - [Stash Everything](git/stash-everything.md)
